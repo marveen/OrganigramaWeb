@@ -11,6 +11,9 @@
 |
 */
 
+
+// se crea codigo para uns controlador del tipo recurso 
+// el cualexpone mas metodos y construlle mas rapido 
 Route::resource('ContactoWeb', 'ContactoWebController');
 
 
